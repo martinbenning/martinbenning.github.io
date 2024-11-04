@@ -10,7 +10,7 @@ I am Professor of Inverse Problems at the Department of Computer Science, Univer
 
 ## Latest News
 {% for post in site.posts limit:3 %}
-- {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
+- {{ post.date | date: "%d-%m-%Y" }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 ## Research Interests

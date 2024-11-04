@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New PhD Project: ParaLift"
-date: 2024-04-27
+date: 02-10-2024
 categories: [PhD Projects]
 ---
 
