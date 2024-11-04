@@ -1,15 +1,27 @@
 ---
 layout: single
-title: "Home"
+title: "Martin Benning"
+permalink: /
 ---
 
-# Welcome to My Academic Profile
+# Welcome
 
-Hello! I am [Your Name], a [Your Position] at [Your Institution]. My research interests include [Your Research Interests].
+I am Professor of Inverse Problems at the Department of Computer Science, University College London.
 
-## Publications
-- [Publication 1](link)
-- [Publication 2](link)
+## Latest News
+{% for post in site.posts limit:3 %}
+- {{ post.date | date: "%Y-%m-%d" }} - [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+## Research Interests
+- Inverse problems
+- Regularisation theory
+- Machine learning
+- Image processing
+- Imaging
+- Optimisation
 
 ## Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [martin.benning[at]ucl.ac.uk](mailto:martin.benning@ucl.ac.uk)
+- Office: Building Name, Room XXX
+- [Google Scholar](link) | [ORCID](link) | [GitHub](link)
