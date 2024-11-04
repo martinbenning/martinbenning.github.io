@@ -10,6 +10,7 @@ categories: [PhD Projects]
 **Supervisor:** Professor Martin Benning
 
 **Project summary**
+The PARALIFT project aims to develop a user-friendly software toolbox for distributed neural network training using the lifted Bregman framework. The toolbox will enable efficient parallelisation of parameter updates and support various training techniques and architectures. The project also explores applications in medical imaging and variational regularisations.
 
 **Existing background work:**
 - The project is based on innovative advancements in distributed neural network training.
