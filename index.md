@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Martin Benning"
+title: "Welcome"
 permalink: /
 ---
 
