@@ -8,7 +8,7 @@ author_profile: true
 # Contact Information
 
 ## Email
-[martin.benning@ucl.ac.uk](mailto:martin.benning@ucl.ac.uk)
+[martin.benning[at]ucl.ac.uk](mailto:martin.benning[at]ucl.ac.uk)
 
 ## Office
 Building Name, Room XXX  

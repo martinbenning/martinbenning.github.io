@@ -22,6 +22,6 @@ I am Professor of Inverse Problems at the Department of Computer Science, Univer
 - Optimisation
 
 ## Contact
-- Email: [martin.benning[at]ucl.ac.uk](mailto:martin.benning@ucl.ac.uk)
+- Email: [martin.benning[at]ucl.ac.uk](mailto:martin.benning[at]ucl.ac.uk)
 - Office: Building Name, Room XXX
 - [Google Scholar](link) | [ORCID](link) | [GitHub](link)
